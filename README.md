@@ -2,7 +2,7 @@
 
 **Data Analyst | Data Science & Machine Learning | Python · SQL · scikit-learn | 10+ years in business analytics**
 
-I am a data professional with a strong background in business and marketing analytics and hands-on experience applying data science and machine learning to end-to-end projects.
+My experience includes sales analytics, customer behavior analysis, segmentation, assortment and promotional analytics, and data-driven decision support. I combine this domain expertise with hands-on experience delivering end-to-end machine learning projects in regression, classification, time-series forecasting, and NLP.
 
 My experience includes sales analytics, customer behavior analysis, segmentation, assortment and promotional analytics, and data-driven decision support. I am currently expanding this background through end-to-end machine learning projects covering regression, classification, time series, and NLP.
 
@@ -86,7 +86,7 @@ Regression project for predicting gold recovery efficiency in an industrial proc
 - multi-stage target prediction
 - custom sMAPE evaluation
 - model comparison and validation
-- Gold Recovery Prediction — weighted test sMAPE: **6.678%**, **19.5%** lower than the baseline
+- weighted test sMAPE: **6.678%**, **19.5%** lower than the baseline
 
 ## 🎯 What I'm Interested In
 
