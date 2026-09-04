@@ -56,6 +56,7 @@ Time-series forecasting of hourly taxi demand.
 - daily and weekly seasonality analysis
 - comparison of CatBoost, XGBoost, and LightGBM
 - seasonal baseline forecasts
+- test RMSE: **37.69**
 
 ### 💬 [Toxic Comment Classification](https://github.com/gr-ekaterina/wikishop-toxic-comment-classification)
 NLP classification project for identifying toxic comments.
@@ -65,6 +66,7 @@ NLP classification project for identifying toxic comments.
 - word- and character-level TF-IDF
 - Logistic Regression and LinearSVC
 - model comparison using F1 score
+- test F1: **0.806**
 
 ### 👥 Customer Churn Prediction
 Classification project focused on predicting customer churn.
@@ -74,6 +76,7 @@ Classification project focused on predicting customer churn.
 - comparison of multiple classification models
 - CatBoost and Random Forest
 - evaluation using F1 and ROC-AUC
+- F1: **0.620**, ROC-AUC: **0.866**
 
 ### 🏭 [Gold Recovery Prediction](https://github.com/gr-ekaterina/gold-recovery-prediction)
 Regression project for predicting gold recovery efficiency in an industrial process.
@@ -83,6 +86,7 @@ Regression project for predicting gold recovery efficiency in an industrial proc
 - multi-stage target prediction
 - custom sMAPE evaluation
 - model comparison and validation
+- Gold Recovery Prediction — weighted test sMAPE: **6.678%**, **19.5%** lower than the baseline
 
 ## 🎯 What I'm Interested In
 
