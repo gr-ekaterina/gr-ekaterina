@@ -2,7 +2,7 @@
 
 **Data Analyst | Data Science & Machine Learning | Python · SQL · scikit-learn | 10+ years in business analytics**
 
-I am a data professional with a strong background in business and marketing analytics and growing expertise in Data Science and Machine Learning.
+I am a data professional with a strong background in business and marketing analytics and hands-on experience applying data science and machine learning to end-to-end projects.
 
 My experience includes sales analytics, customer behavior analysis, segmentation, assortment and promotional analytics, and data-driven decision support. I am currently expanding this background through end-to-end machine learning projects covering regression, classification, time series, and NLP.
 
