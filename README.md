@@ -36,7 +36,7 @@ My experience includes sales analytics, customer behavior analysis, segmentation
 
 ## 📌 Featured Projects
 
-### 🚗 Used Car Price Prediction
+### 🚗 [Used Car Price Prediction](https://github.com/gr-ekaterina/used_car_price_prediction)
 End-to-end regression project for predicting used-car prices in Germany.
 
 **Highlights:**
@@ -47,7 +47,7 @@ End-to-end regression project for predicting used-car prices in Germany.
 - validation against a naïve baseline
 - final LightGBM test RMSE: **€1,612.45**
 
-### 🚕 Taxi Demand Forecasting
+### 🚕 [Taxi Demand Forecasting](https://github.com/gr-ekaterina/taxi-demand-forecasting)
 Time-series forecasting of hourly taxi demand.
 
 **Highlights:**
@@ -57,7 +57,7 @@ Time-series forecasting of hourly taxi demand.
 - comparison of CatBoost, XGBoost, and LightGBM
 - seasonal baseline forecasts
 
-### 💬 Toxic Comment Classification
+### 💬 [Toxic Comment Classification](https://github.com/gr-ekaterina/wikishop-toxic-comment-classification)
 NLP classification project for identifying toxic comments.
 
 **Highlights:**
@@ -75,7 +75,7 @@ Classification project focused on predicting customer churn.
 - CatBoost and Random Forest
 - evaluation using F1 and ROC-AUC
 
-### 🏭 Gold Recovery Prediction
+### 🏭 [Gold Recovery Prediction](https://github.com/gr-ekaterina/gold-recovery-prediction)
 Regression project for predicting gold recovery efficiency in an industrial process.
 
 **Highlights:**
