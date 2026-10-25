@@ -42,7 +42,7 @@ I combine this domain expertise with hands-on experience delivering end-to-end d
 
 ### 🚗 [Used Car Price Prediction](https://github.com/gr-ekaterina/used_car_price_prediction)
 
-End-to-end regression project for predicting used-car prices in Germany.
+End-to-end regression project for predicting used-car prices in Germany. Accurate price estimates can support competitive pricing, inventory valuation, and data-driven pricing decisions in the used-car market.
 
 **Highlights:**
 
@@ -55,7 +55,7 @@ End-to-end regression project for predicting used-car prices in Germany.
 
 ### 🚕 [Taxi Demand Forecasting](https://github.com/gr-ekaterina/taxi-demand-forecasting)
 
-Time-series forecasting of hourly airport taxi demand.
+Time-series forecasting of hourly airport taxi demand to support fleet allocation and operational planning. Reliable demand forecasts can help taxi operators anticipate peak demand, reduce vehicle shortages, and improve resource utilization.
 
 **Highlights:**
 
@@ -68,7 +68,7 @@ Time-series forecasting of hourly airport taxi demand.
 
 ### 💬 [Toxic Comment Classification](https://github.com/gr-ekaterina/wikishop-toxic-comment-classification)
 
-NLP classification project for identifying toxic comments.
+NLP classification project for automatically identifying toxic comments on an online platform. Automated toxicity detection can support content moderation, reduce manual review workloads, and help maintain a safer environment for users.
 
 **Highlights:**
 
@@ -80,7 +80,7 @@ NLP classification project for identifying toxic comments.
 
 ### 👥 [Bank Customer Churn Prediction](https://github.com/gr-ekaterina/bank-customer-churn-prediction)
 
-Classification project focused on identifying customers at high risk of churn and comparing global and regional modelling architectures.
+Classification project focused on identifying banking customers at high risk of churn. Churn predictions can help prioritize customer retention efforts and support targeted interventions. The project also compares global and regional modelling architectures to assess whether country-specific models offer meaningful predictive advantages.
 
 **Highlights:**
 
@@ -93,7 +93,7 @@ Classification project focused on identifying customers at high risk of churn an
 
 ### 🏭 [Gold Recovery Prediction](https://github.com/gr-ekaterina/gold-recovery-prediction)
 
-Industrial machine learning project for predicting gold recovery at multiple processing stages.
+Industrial machine learning project for predicting gold recovery at multiple processing stages. Accurate recovery estimates can support production planning, process monitoring, and the evaluation of processing efficiency in gold extraction operations.
 
 **Highlights:**
 
@@ -117,7 +117,6 @@ I am interested in roles and projects involving:
 
 ## 📫 Contact
 
-* **LinkedIn:**
 * **Email:** [katja10788@gmail.com](mailto:katja10788@gmail.com)
 
 ---
