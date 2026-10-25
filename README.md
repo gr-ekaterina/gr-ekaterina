@@ -78,17 +78,18 @@ NLP classification project for identifying toxic comments.
 * model evaluation using the F1 score
 * final Logistic Regression test F1: **0.806**
 
-### 👥 Customer Churn Prediction
+### 👥 [Bank Customer Churn Prediction](https://github.com/gr-ekaterina/bank-customer-churn-prediction)
 
-Classification project focused on predicting customer churn.
+Classification project focused on identifying customers at high risk of churn and comparing global and regional modelling architectures.
 
 **Highlights:**
 
-* class imbalance handling
-* comparison of multiple classification models
-* CatBoost and Random Forest
-* evaluation using F1 and ROC-AUC
-* F1: **0.620**, ROC-AUC: **0.866**
+* leakage-safe preprocessing within cross-validation
+* class imbalance handling using resampling and class weights
+* comparison of CatBoost, Random Forest, Decision Tree, and Logistic Regression
+* evaluation of global, country-specific, and combined regional architectures
+* repeated cross-validation, bootstrap confidence intervals, and permutation importance
+* final global CatBoost model — test F1: **0.611**, ROC-AUC: **0.881**, Recall: **0.769**
 
 ### 🏭 [Gold Recovery Prediction](https://github.com/gr-ekaterina/gold-recovery-prediction)
 
